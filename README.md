@@ -1,6 +1,6 @@
 # Using LangChain for short paragraph generation 🦜🔗
 
-This project showcases the implementation of **Langchain**, a powerful framework to work with **LLMs**. Here, we delve into the art of storytelling, utilizing Langchain's capabilities to craft engaging short narratives. Initially, prompts are employed to kickstart the creative process, followed by the integration of memory to enhance interaction and assess the model's comprehension.
+This project showcases the implementation of **Langchain**, a powerful framework to work with **LLMs**. Here, I delve into the art of storytelling, utilizing Langchain's capabilities to craft engaging short narratives. Initially, prompts are employed to kickstart the creative process, followed by the integration of memory to enhance interaction and assess the model's comprehension.
 
 ## Features
 
